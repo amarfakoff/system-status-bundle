@@ -1,3 +1,5 @@
+# WARNING: This repo is no longer actively maintained
+
 Введение
 --------
 
